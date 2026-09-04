@@ -7,13 +7,13 @@ about:
   head: 8e4a29b
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:40:37Z
+  collectedAt: 2026-09-04T20:56:28Z
 timeline:
   created: 2023-04-05
   lastCommit: 2026-01-05
   lastRelease: 
 popularity:
-  star: 5287
+  star: 5286
   watcher: 29
   fork: 377
   release: 0
@@ -64,7 +64,7 @@ recent:
     openPR: 23
     closedIssue: 0
     openIssue: 3
-    commit: 0
+    commit: 1
   last720d:
     since: 2024-09-14
     release: 0
@@ -81,5 +81,28 @@ total:
   openIssue: 52
   commit: 293
 ---
+path: /home/runner/.x-repo/github.com/BuilderIO/ai-shell
+collectedAt: 2026-09-04T20:56:29Z
+loc:
+  Json:
+    code: 4237
+    comments: 0
+    blanks: 0
+    files: 19
+  TypeScript:
+    code: 1171
+    comments: 29
+    blanks: 112
+    files: 16
+  Markdown:
+    code: 0
+    comments: 405
+    blanks: 240
+    files: 4
+total:
+  code: 5472
+  comments: 434
+  blanks: 352
+  files: 39
 ---
 
