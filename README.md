@@ -1,24 +1,55 @@
 # ai-shell
 
+[中文版本](./README.cn.md)
+
 A CLI that converts natural language to shell commands.
 
-- **Upstream**: <https://github.com/BuilderIO/ai-shell>
-- **Homepage**: <>
-- **Latest release**: `` (n/a)
-- **Last commit**: 2026-01-05
-- **License**: MIT
-- **Stars**: 5289 · **Forks**: 376 · **Open issues**: 93 · **Contributors**: 30
+![ai-shell](https://repo.x-cmd.io/ai-shell.svg)
 
-## Installation
+## Install
 
 ```sh
 x install ai-shell
 ```
 
-See <https://x-cmd.com/install/ai-shell> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/BuilderIO/ai-shell>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Popularity
 
-_Last regenerated: 2026-09-09T20:14:18Z._
+- **Stars**: 5,289 · **Forks**: 376 · **Open issues**: 93 · **Contributors**: 30
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 47 · **Open PRs**: 28 · **Closed issues**: 41 · **Open issues**: 52 · **Commits**: 293
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 1 | 23 | 0 | 2 | 1 |
+
+## Code size
+
+Total: **5,408** lines of code across **39** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 4,237 | 0 | 0 | 19 |
+| TypeScript | 1,171 | 29 | 112 | 16 |
+| Markdown | 0 | 405 | 240 | 4 |
+
+## Improve this data
+
+Install metadata for ai-shell lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ai-shell` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/ai-shell.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T06:00:31Z._
